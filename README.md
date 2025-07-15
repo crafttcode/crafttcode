@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to CraftCode!</h1>
 
-<!--
-**crafttcode/crafttcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>🎥 YouTube | 💻 Code | 🚀 Learn</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.youtube.com/@crafttcode" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-CraftCode-red?style=for-the-badge&logo=youtube" alt="YouTube Channel" />
+  </a>
+  <a href="https://github.com/crafttcode" target="_blank">
+    <img src="https://img.shields.io/github/followers/CraftCode?label=GitHub&style=for-the-badge" alt="GitHub Profile" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+Hi! I'm the creator of **CraftCode** — a YouTube channel focused on web development tutorials, projects, and coding tips.  
+I love creating content that helps people **learn full-stack development**, especially with **HTML, CSS, JavaScript, React, Next.js, Node.js**, and more.
+
+---
+
+### 📺 Latest YouTube Content
+
+- ✅ Full HTML Tutorial in Hindi 🇮🇳
+- 🔐 Login & Contact Form using HTML
+- 🤖 ChatGPT Clone using OpenAI API + Next.js
+- 📦 Billing Software in Next.js (Coming Soon!)
+
+👉 Subscribe here: [CraftCode YouTube Channel](https://www.youtube.com/@crafttcode)
+
+---
+
+### 🛠 Tech Stack
+
+```bash
+💡 Languages: HTML, CSS, JavaScript, TypeScript  
+⚙️ Tools: Git, GitHub, VS Code  
+🌐 Frontend: React, Next.js, Tailwind CSS  
+🧠 Backend: Node.js, Express.js, MongoDB  
